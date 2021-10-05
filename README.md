@@ -7,7 +7,7 @@ konfiguracja
 git clone https://github.com/Arek-z/restapi
 cd restapi
 virtualenv env
-venv\Scripts\activate  
+env\Scripts\activate  
 pip install -r requirements.txt  
 cd rci_web  
 powershell  
